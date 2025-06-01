@@ -2,7 +2,7 @@ package com.example.enlatadosmg.repository;
 
 
 
-import com.enlatadosmg.model.Repartidor;
+import com.example.enlatadosmg.model.Repartidor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
